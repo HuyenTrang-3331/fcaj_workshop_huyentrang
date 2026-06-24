@@ -8,96 +8,146 @@ pre: " <b> 1.7. </b> "
 
 ### Week 7 Objectives:
 
-- Complete all learning content of Module 06 on Database on AWS in the First Cloud AI Journey program.
-- Review basic database concepts, relational database and non-relational database.
-- Explore key database services on AWS such as Amazon RDS, Amazon Aurora, Amazon Redshift and Amazon ElastiCache.
-- Practice deploying systems using Amazon RDS, including VPC, Security Group, DB Subnet Group, EC2 Instance, RDS Database Instance and Application Deployment.
-- Practice backup, restore and cleaning up resources after completing labs.
-- Practice connecting to EC2 using RDP Client and Fleet Manager.
-- Practice configuring source database and target database environments for migration.
-- Practice migrating databases from SQL Server/Oracle to MySQL using supporting tools like Schema Conversion and Migration Task.
-- Develop skills in checking logs, monitoring migration status and troubleshooting database migration errors.
+* Complete learning content of **Module 06** about **Databases on AWS** in the **First Cloud AI Journey** program.
+* Review foundational database concepts including relational databases, non-relational databases, schemas, tables, queries, and transactions.
+* Learn about key AWS database services like **Amazon RDS**, **Amazon Aurora**, **Amazon Redshift**, and **Amazon ElastiCache**.
+* Analyze the role of the database layer in a real-world AWS architecture, including data storage, application connectivity, backup, restore, migration, and performance optimization.
+* Practice deploying a system using **Amazon RDS**, including VPC, Security Groups, DB Subnet Group, EC2 Instance, RDS Database Instance, and Application Deployment.
+* Practice backing up, restoring, and verifying data recovery capabilities after RDS deployment.
+* Practice connecting to EC2 using **RDP Client** and **Fleet Manager** to prepare the migration environment.
+* Practice configuring source and target databases for migrating from SQL Server/Oracle to MySQL.
+* Practice schema conversion, creating endpoints, creating migration tasks, checking logs, and troubleshooting errors during database migration.
+* Practice skills for checking database connectivity, monitoring migration status, analyzing errors, and cleaning up resources to avoid unexpected costs.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
-| :--- | :------- | :----------- | :-------------- | :----------------- |
-| 1 | - Study Module 06-01: Database Concepts Review<br>- Review basic database concepts, relational database, non-relational database, schema, table, record, query and transaction<br>- Study Module 06-02: Amazon RDS & Amazon Aurora<br>- Explore the role of Amazon RDS and Amazon Aurora in deploying managed databases on AWS<br>- Study Module 06-03: Redshift - ElastiCache<br>- Explore an overview of data warehouse and caching on AWS | 29/05/2026 | 29/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 2 | - Complete Lab05-2.1: Create a VPC<br>- Complete Lab05-2.2: Create EC2 Security Group<br>- Complete Lab05-2.3: Create RDS Security Group<br>- Complete Lab05-2.4: Create DB Subnet Group<br>- Complete Lab05-3: Create EC2 instance<br>- Complete Lab05-4: Create RDS database instance<br>- Complete Lab05-5: Application Deployment<br>- Complete Lab05-6: Backup and restore<br>- Complete Lab05-7: Clean up resources | 01/06/2026 | 01/06/2026 | https://000005.awsstudygroup.com |
-| 3 | - Complete Lab43-01: EC2 Connect RDP Client<br>- Complete Lab43-02: EC2 Connect Fleet Manager<br>- Complete Lab43-03: SQLSrv Src Config<br>- Complete Lab43-04: Oracle connect SrcDB<br>- Complete Lab43-05: Oracle config SrcDB<br>- Complete Lab43-06: Drop Constraint<br>- Complete Lab43-07: MSSQL to aur MySQL target config<br>- Prepare source database and target database environments for the migration process | 02/06/2026 | 02/06/2026 | https://000043.awsstudygroup.com |
-| 4 | - Complete Lab43-08: MSSQL to MySQL create project<br>- Complete Lab43-09: MSSQL to MySQL Schema Conversion<br>- Complete Lab43-10: Oracle to MySQL Schema Conversion 1<br>- Complete Lab43-11: Create Migration Task and Endpoint<br>- Complete Lab43-12: Inspect S3<br>- Complete Lab43-13: Create Serverless Migration<br>- Note the schema conversion process and creating migration tasks during database migration | 03/06/2026 | 03/06/2026 | https://000043.awsstudygroup.com |
-| 5 | - Complete Lab43-14: Create Event Notification<br>- Complete Lab43-15: Logs<br>- Complete Lab43-16: Troubleshoot Test Scenario Mem Pressure<br>- Complete Lab43-17: Troubleshoot Test Scenario Table Error<br>- Check logs, monitor migration status and troubleshoot errors during practice | 04/06/2026 | 04/06/2026 | https://000043.awsstudygroup.com |
+| :--- | :--- | :--- | :--- | :--- |
+| 1    | - Study Module 06-01: Database Concepts Review<br>- Review foundational database concepts including relational database, non-relational database, schema, table, record, query, and transaction<br>- Study Module 06-02: Amazon RDS & Amazon Aurora<br>- Learn about the role of RDS and Aurora in deploying managed databases on AWS<br>- Study Module 06-03: Redshift - ElastiCache<br>- Learn about data warehouse and caching overview on AWS<br>- Analyze how the database layer connects to the application layer in AWS architecture<br>- Note criteria for choosing database services like performance, cost, scalability, backup, and availability | 29/05/2026 | 29/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 2    | - Complete Lab05-2.1: Create a VPC<br>- Complete Lab05-2.2: Create EC2 Security Group<br>- Complete Lab05-2.3: Create RDS Security Group<br>- Complete Lab05-2.4: Create DB Subnet Group<br>- Complete Lab05-3: Create EC2 Instance<br>- Complete Lab05-4: Create RDS Database Instance<br>- Complete Lab05-5: Application Deployment<br>- Complete Lab05-6: Backup and Restore<br>- Complete Lab05-7: Clean up resources<br>- Analyze connection flow between EC2 Application and RDS Database<br>- Note the role of Security Group and DB Subnet Group in database security | 01/06/2026 | 01/06/2026 | https://000005.awsstudygroup.com/ |
+| 3    | - Complete Lab43-01: EC2 Connect RDP Client<br>- Complete Lab43-02: EC2 Connect Fleet Manager<br>- Complete Lab43-03: SQLSrv Src Config<br>- Complete Lab43-04: Oracle connect SrcDB<br>- Complete Lab43-05: Oracle config SrcDB<br>- Complete Lab43-06: Drop Constraint<br>- Complete Lab43-07: MSSQL to Aurora MySQL Target Config<br>- Prepare source and target database environments for migration<br>- Note steps to check connectivity, credentials, network, and database engine before migration | 02/06/2026 | 02/06/2026 | https://000043.awsstudygroup.com/ |
+| 4    | - Complete Lab43-08: MSSQL to MySQL Create Project<br>- Complete Lab43-09: MSSQL to MySQL Schema Conversion<br>- Complete Lab43-10: Oracle to MySQL Schema Conversion 1<br>- Complete Lab43-11: Create Migration Task and Endpoint<br>- Complete Lab43-12: Inspect S3<br>- Complete Lab43-13: Create Serverless Migration<br>- Note schema conversion process and creating migration tasks<br>- Analyze the role of endpoints, migration tasks, schema conversion, and S3 in database migration | 03/06/2026 | 03/06/2026 | https://000043.awsstudygroup.com/ |
+| 5    | - Complete Lab43-14: Create Event Notification<br>- Complete Lab43-15: Logs<br>- Complete Lab43-16: Troubleshoot Test Scenario Mem Pressure<br>- Complete Lab43-17: Troubleshoot Test Scenario Table Error<br>- Check logs, monitor migration status, and troubleshoot errors during practice<br>- Note common errors like memory pressure, table errors, schema errors, endpoint errors, and access permission errors<br>- Clean up resources after completing lab to avoid unexpected costs | 04/06/2026 | 04/06/2026 | https://000043.awsstudygroup.com/ |
 
 ### Week 7 Achievements:
 
-- Completed all learning content of Module 06 on Database on AWS in the First Cloud AI Journey program.
-- Understood basic database concepts, including:
-  - Database.
-  - Table.
-  - Record.
-  - Schema.
-  - Query.
-  - Transaction.
-  - Relational Database.
-  - Non-relational Database.
-- Mastered the role of key database services on AWS, including:
-  - Amazon RDS.
-  - Amazon Aurora.
-  - Amazon Redshift.
-  - Amazon ElastiCache.
-- Understood the role of Amazon RDS in deploying and managing relational databases on AWS.
-- Understood the role of Amazon Aurora in providing high-performance, scalable and highly available databases.
-- Understood the role of Amazon Redshift in building data warehouses for large-scale data analysis.
-- Understood the role of Amazon ElastiCache in accelerating applications through caching and reducing direct database query load.
-- Practiced labs related to Amazon RDS deployment, including:
-  - Lab05-2.1: Create a VPC.
-  - Lab05-2.2: Create EC2 Security Group.
-  - Lab05-2.3: Create RDS Security Group.
-  - Lab05-2.4: Create DB Subnet Group.
-  - Lab05-3: Create EC2 instance.
-  - Lab05-4: Create RDS database instance.
-  - Lab05-5: Application Deployment.
-  - Lab05-6: Backup and restore.
-  - Lab05-7: Clean up resources.
-- Learned how to create VPC, Security Group and DB Subnet Group to prepare network infrastructure for Amazon RDS.
-- Learned how to create EC2 Instance as a connection environment or deploy database access applications.
-- Learned how to create RDS Database Instance and configure connections between applications and databases.
-- Practiced deploying applications using databases on AWS.
-- Understood the database backup and restore process in Amazon RDS to ensure data recoverability in case of incidents.
-- Practiced labs related to connecting and configuring database migration environments, including:
-  - Lab43-01: EC2 Connect RDP Client.
-  - Lab43-02: EC2 Connect Fleet Manager.
-  - Lab43-03: SQLSrv Src Config.
-  - Lab43-04: Oracle connect SrcDB.
-  - Lab43-05: Oracle config SrcDB.
-  - Lab43-06: Drop Constraint.
-  - Lab43-07: MSSQL to aur MySQL target config.
-- Learned how to connect to EC2 Instance using RDP Client and Fleet Manager.
-- Learned how to prepare source database and target database for the migration process.
-- Practiced labs related to schema conversion and database migration, including:
-  - Lab43-08: MSSQL to MySQL create project.
-  - Lab43-09: MSSQL to MySQL Schema Conversion.
-  - Lab43-10: Oracle to MySQL Schema Conversion 1.
-  - Lab43-11: Create Migration Task and Endpoint.
-  - Lab43-12: Inspect S3.
-  - Lab43-13: Create Serverless Migration.
-- Understood the role of schema conversion in converting databases between different management systems.
-- Learned how to create migration tasks and endpoints to support data migration from source database to target database.
-- Understood the role of Amazon S3 in storing intermediate data or artifacts related to the migration process.
-- Practiced labs related to monitoring, logs and troubleshooting during migration, including:
-  - Lab43-14: Create Event Notification.
-  - Lab43-15: Logs.
-  - Lab43-16: Troubleshoot Test Scenario Mem Pressure.
-  - Lab43-17: Troubleshoot Test Scenario Table Error.
-- Learned how to check logs to monitor migration status and detect errors.
-- Learned how to handle some basic error situations during database migration.
-- Learned how to clean up resources after completing labs to avoid unnecessary costs.
-- Developed hands-on AWS Database skills through labs, including:
-  - Reading lab requirements.
-  - Performing configuration steps on AWS Console.
-  - Observing results after configuration.
-  - Checking results after deployment.
-  - Documenting errors if any.
-  - Cleaning up resources after completing labs.
-- Acquired the ability to link theoretical knowledge of Amazon RDS, Aurora, Redshift, ElastiCache and database migration with practical labs.
-- Completed notes, summarized learning results and prepared content for the Week 7 report.
+**Overall:**
+
+In Week 7, I completed the learning content of **Module 06** about **Databases on AWS**. This week's content helped me better understand the role of databases in cloud architecture, from deploying relational databases using Amazon RDS, using managed databases, configuring application connections, to backup, restore, and data migration.
+
+In addition to studying the module and completing labs, I also added database layer architecture analysis, checked security for EC2-to-RDS connections, monitored migration status, read logs, troubleshot errors, and evaluated factors to consider when deploying databases on AWS like performance, cost, security, and data recovery capabilities.
+
+**Learned Theory:**
+
+* Reviewed foundational database concepts:
+
+  * Database.
+  * Table.
+  * Record.
+  * Schema.
+  * Query.
+  * Transaction.
+  * Relational Database.
+  * Non-relational Database.
+* Understand the role of **Amazon RDS** in deploying and managing relational databases on AWS.
+* Understand the role of **Amazon Aurora** in providing high-performance, highly scalable, and highly available databases.
+* Understand the role of **Amazon Redshift** in building data warehouses for large-scale data analysis.
+* Understand the role of **Amazon ElastiCache** in speeding up applications through caching and reducing direct query load on databases.
+* Master key components for deploying RDS:
+
+  * VPC.
+  * EC2 Security Group.
+  * RDS Security Group.
+  * DB Subnet Group.
+  * EC2 Instance.
+  * RDS Database Instance.
+  * Database endpoint.
+* Understand the role of **Security Group** in controlling connections from application servers to databases.
+* Understand why databases should be placed in private subnets to restrict direct Internet access.
+* Master the role of **backup and restore** in protecting data and ensuring recovery capabilities in case of incidents.
+* Understand the process of migrating databases from SQL Server/Oracle to MySQL:
+
+  * Prepare source database.
+  * Prepare target database.
+  * Convert schema.
+  * Create endpoints.
+  * Create migration task.
+  * Monitor logs and troubleshoot errors.
+* Understand the role of **schema conversion** when moving data between different database management systems.
+* Understand the role of **Amazon S3** in storing intermediate data or artifacts related to the migration process.
+* Note some best practices for deploying databases on AWS:
+
+  * Don't expose databases directly to the Internet.
+  * Only open database ports for necessary access sources.
+  * Use clear Security Groups for EC2 and RDS.
+  * Always verify backup/restore instead of just creating backups.
+  * Monitor logs during migration to detect errors early.
+  * Clean up RDS, EC2, endpoints, migration tasks, and related resources after lab to avoid unexpected costs.
+
+**Practiced with Labs:**
+
+* Completed **Amazon RDS** deployment lab:
+
+  * Create a VPC.
+  * Create EC2 Security Group.
+  * Create RDS Security Group.
+  * Create DB Subnet Group.
+  * Create EC2 Instance.
+  * Create RDS Database Instance.
+  * Application Deployment.
+  * Backup and Restore.
+  * Clean up resources.
+* Practiced creating network infrastructure, Security Groups, and DB Subnet Groups to prepare the environment for RDS.
+* Practiced creating EC2 Instances as connection environments or deploying database-accessing applications.
+* Practiced creating RDS Database Instances and verifying application-to-database connectivity.
+* Practiced backing up and restoring databases to verify data recovery capabilities.
+* Completed migration environment preparation labs:
+
+  * EC2 Connect RDP Client.
+  * EC2 Connect Fleet Manager.
+  * SQL Server source configuration.
+  * Oracle source database connection.
+  * Oracle source database configuration.
+  * Drop Constraint.
+  * MSSQL to Aurora MySQL target configuration.
+* Practiced connecting to EC2 using RDP Client and Fleet Manager.
+* Practiced configuring source and target databases for migration.
+* Completed schema conversion and migration labs:
+
+  * MSSQL to MySQL Create Project.
+  * MSSQL to MySQL Schema Conversion.
+  * Oracle to MySQL Schema Conversion.
+  * Create Migration Task and Endpoint.
+  * Inspect S3.
+  * Create Serverless Migration.
+* Practiced creating migration projects, converting schemas, creating endpoints and migration tasks.
+* Practiced checking S3 to observe data or migration-related artifacts.
+* Completed migration monitoring and troubleshooting labs:
+
+  * Create Event Notification.
+  * Logs.
+  * Troubleshoot Memory Pressure.
+  * Troubleshoot Table Error.
+* Practiced checking logs, monitoring migration status, and troubleshooting basic errors during migration.
+* Note things to check when encountering migration errors:
+
+  * Source database connectivity.
+  * Target database connectivity.
+  * Credential.
+  * Security Group.
+  * Endpoint.
+  * Schema conversion.
+  * Migration task status.
+  * Error logs.
+* Sketched a database layer diagram including:
+
+  * Application/EC2.
+  * RDS Database.
+  * DB Subnet Group.
+  * Security Group.
+  * Source Database.
+  * Target Database.
+  * Migration Task.
+  * S3.
+  * Logs/Event Notification.
+* Cleaned up resources like EC2, RDS, Security Group, DB Subnet Group, migration task, endpoint, S3 artifacts, and related resources after completing the lab.
