@@ -1,47 +1,102 @@
 ---
 title: "Sharing and Feedback"
-date: 2024-01-01
+date: 2026-06-26
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
+During my participation in the **First Cloud AI Journey** program, I had the opportunity to access a lot of foundational knowledge about AWS Cloud, practice hands-on labs by topic, and gradually develop design, operation, security, and cost optimization thinking in a cloud environment.
 
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCJ team improve any shortcomings based on the following aspects:
+This section presents some of my evaluations, personal feelings, and feedback after the learning and practice process in the program.
 
 ### Overall Evaluation
 
-**1. Working Environment**  
-The working environment is very friendly and open. FCJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+**1. Learning Environment**
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+The learning environment in the program is quite open, suitable for beginners starting to learn about AWS. The content is clearly divided into modules, helping learners go from foundational knowledge to more advanced topics like Networking, Compute, Storage, Database, Security, Monitoring, and Cost Optimization.
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+What I highly appreciate is that the program doesn't stop at theory but also has specific hands-on labs. Thanks to that, I could directly interact with the AWS Console, observe results after configuration, and better understand the role of each service in a real system.
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+**2. Support from Mentors and the Community**
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+During the learning process, mentors and the FCJ community provided a lot of support through documents, guidance, experience sharing, and answering technical questions. When encountering errors during labs, I could rely on documents, exchange with the community, and self-check each configuration step.
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
+This helped me develop self-learning and self-debugging thinking, not just relying on ready-made answers. This is a very necessary skill when working with cloud, because in reality each system can have different configurations, errors, and requirements.
 
----
+**3. Alignment with Learning and Career Orientation**
 
-### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+The program content is suitable for IT students, especially those interested in Cloud, DevOps, System Administration, Backend, Data, or Security. Knowledge like IAM, VPC, EC2, S3, RDS, CloudWatch, CloudTrail, and Cost Management are all important foundations when building or operating systems on AWS.
 
----
+Through the program, I better understood how AWS services connect with each other in a complete architecture, instead of just knowing each service individually. This gave me a better foundation to continue learning advanced topics like cloud architecture design, system security, application deployment, and cost optimization.
 
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+**4. Learning Opportunities and Skill Development**
+
+After participating in the program, I have improved many important skills such as:
+
+* Reading and understanding technical documents and lab guides.
+* Interacting with the AWS Console and some supporting tools.
+* Creating and configuring AWS resources.
+* Analyzing cloud architecture diagrams.
+* Debugging based on logs, alarms, and resource status.
+* Note-taking practice processes and summarizing learning results.
+* Identifying resources that may incur costs and cleaning up after labs.
+
+In particular, I learned that when working with AWS, creating resources is only one part. More importantly, you must understand where that resource is, what purpose it serves, whether it's secure, whether it incurs costs, and how to clean it up after use.
+
+**5. Learning Culture and Sharing Spirit**
+
+I highly appreciate the sharing spirit in the FCJ community. Learning content, labs, sharing sessions, and reference materials all help learners have more motivation to continue learning about AWS. Learning with the community also helped me easily compare my understanding with others, thereby recognizing gaps and gradually improving week by week.
+
+Additionally, events or real-world sharing sessions also helped me see how AWS is applied in many different situations, from building applications, data processing, security, monitoring to cost optimization.
+
+**6. Program Content and Learning Materials**
+
+Learning materials have a clear structure, divided into many topics suitable for weekly learning. Labs help learners access more easily because they have specific step-by-step instructions. However, some labs are quite long or involve many services, so learners need to take careful notes to avoid confusion during configuration.
+
+In my opinion, the program could add more short summary sections after each module, such as:
+
+* Which services were learned in the module.
+* Where that service fits in the AWS architecture.
+* Real-world use cases.
+* Common errors when doing labs.
+* Which resources need cleaning up to avoid incurring costs.
+
+This will help learners systematize knowledge more easily after completing each group of labs.
+
+### Some Personal Feelings
+
+**What I'm Most Satisfied With**
+
+What I'm most satisfied with is that the program gave me a more comprehensive and practical view of AWS. Before participating, I only knew AWS was a cloud platform with many services. After the learning process, I better understood how services like IAM, VPC, EC2, S3, RDS, CloudWatch, CloudTrail, and Security Hub coordinate with each other in a system.
+
+Additionally, hands-on lab practice helped me remember knowledge longer, because I could directly create resources, configure, check results, and handle errors if any.
+
+**What Could Be Improved**
+
+In my opinion, the program could improve in some areas:
+
+* Add illustrative architecture diagrams for each module.
+* Summarize common errors when doing labs.
+* Add a review quiz section at the end of each module for learners to self-check knowledge.
+
+These improvements will help learners follow along more easily, especially those new to AWS and not yet familiar with cloud resource management.
+
+**If Recommending to Friends**
+
+I would recommend this program to friends who want to start learning AWS or want a foundation in cloud computing. The program is suitable for beginners because it has a clear roadmap, reference materials, hands-on labs, and a supportive community.
+
+However, to learn effectively, participants should actively take notes, self-study more AWS official documents, and practice carefully to avoid mistakes or unnecessary costs.
+
+### Suggestions and Expectations
+
+* There should be more small exercises requiring learners to self-draw or self-comment on AWS architecture diagrams.
+* Should add more real-world scenarios, such as building a complete web application, logging system, internal dashboard, or serverless architecture.
+* Should have a final summary section for each module to help learners easily review and prepare reports.
+* In the future, I hope to continue participating in more advanced AWS activities or programs, especially topics related to cloud architecture, DevOps, security, and cost optimization.
+
+### Conclusion
+
+Overall, **First Cloud AI Journey** is a useful program that helped me build a stronger foundation in AWS Cloud. The program not only helped me understand theory but also trained practical skills, architecture analysis, debugging, account security, and cost management.
+
+After completing the program, I feel more confident working with basic AWS services and have a clearer orientation to continue learning advanced topics in the cloud field.

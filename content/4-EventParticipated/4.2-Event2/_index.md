@@ -175,8 +175,5 @@ The biggest lesson from the event is that technology only has real value when pl
 
 Attendees also recognized that growing in the technology field requires combining multiple skills: technical knowledge, systems thinking, product thinking, teamwork, and the ability to learn continuously. These are the key factors that help students and developers adapt to the rapid pace of change in the technology industry.
 
-#### Some event photos
-
-*Add your event photos here.*
 
 > Overall, FCAJ Community Day was a highly practical event that helped attendees expand their knowledge of AI and Cloud while gaining a clearer understanding of how modern technologies are deployed in real environments. After the event, participants came away not only with more technical knowledge but also with greater inspiration to learn, build products, and grow in the technology field.

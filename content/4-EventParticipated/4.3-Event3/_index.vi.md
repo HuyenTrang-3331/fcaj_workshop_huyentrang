@@ -17,7 +17,7 @@ Thông qua các bài trình bày khác nhau, người tham dự đã tìm hiểu
 
 **Thông tin chung:**
 
-* **Thời gian:** Ngày 06 tháng 06 năm 2026
+* **Thời gian:** 09:00, ngày 06 tháng 06 năm 2026
 * **Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 * **Vai trò:** Người tham dự
 
@@ -113,8 +113,5 @@ Các phiên chia sẻ cho thấy một hệ thống tốt không chỉ chạy th
 
 Phiên chia sẻ về lộ trình từ IT Helpdesk đến Cloud/DevOps giúp tôi hiểu rằng sự phát triển nghề nghiệp đòi hỏi nền tảng vững chắc, các dự án thực tế, kinh nghiệm thực hành và học hỏi không ngừng.
 
-### Một số hình ảnh khi tham gia sự kiện
-
-*Thêm các hình ảnh của bạn tại đây.*
 
 > Nhìn chung, Meetup 06/06/2026 là một sự kiện thực tế và ý nghĩa. Nó cung cấp kiến thức hữu ích về triển khai phần mềm, kiến trúc đám mây, an ninh mạng, GraphRAG và phát triển nghề nghiệp Cloud/DevOps. Sau sự kiện, tôi cảm thấy có động lực hơn để tiếp tục học tập, xây dựng các dự án cá nhân và xác định lộ trình nghề nghiệp rõ ràng hơn trong lĩnh vực công nghệ thông tin.

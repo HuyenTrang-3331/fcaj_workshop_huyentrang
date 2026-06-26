@@ -175,8 +175,4 @@ Bài học lớn nhất từ sự kiện là công nghệ chỉ thật sự có 
 
 Ngoài ra, người tham gia cũng nhận ra rằng để phát triển trong lĩnh vực công nghệ, cần kết hợp nhiều kỹ năng: kiến thức kỹ thuật, tư duy hệ thống, tư duy sản phẩm, khả năng làm việc nhóm và năng lực học hỏi liên tục. Đây là những yếu tố quan trọng giúp sinh viên và lập trình viên thích nghi với sự thay đổi nhanh của ngành công nghệ.
 
-#### Một số hình ảnh khi tham gia sự kiện
-
-*Thêm các hình ảnh của các bạn tại đây.*
-
 > Tổng thể, FCAJ Community Day là một sự kiện có giá trị thực tiễn cao, giúp người tham gia mở rộng kiến thức về AI và Cloud, đồng thời hiểu rõ hơn cách các công nghệ hiện đại được triển khai trong môi trường thực tế. Sau sự kiện, người tham gia không chỉ có thêm kiến thức kỹ thuật mà còn có thêm cảm hứng để học tập, xây dựng sản phẩm và phát triển bản thân trong lĩnh vực công nghệ.

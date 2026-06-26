@@ -112,8 +112,5 @@ The sessions showed that a good system should not only run successfully but also
 
 The session about the path from IT Helpdesk to Cloud/DevOps helped me understand that career growth requires strong fundamentals, practical projects, hands-on experience, and continuous learning.
 
-### Some event photos
-
-*Thêm các hình ảnh của bạn tại đây.*
 
 > Overall, Meetup 06/06/2026 was a practical and meaningful event. It provided useful knowledge about software deployment, cloud architecture, cybersecurity, GraphRAG, and Cloud/DevOps career development. After the event, I felt more motivated to continue learning, building personal projects, and defining a clearer career path in information technology.
