@@ -139,5 +139,3 @@ Dữ liệu phân tán là vấn đề rất phổ biến trong doanh nghiệp. 
 Với AWS, một hướng tiếp cận thực tế là bắt đầu bằng một AI Assistant nội bộ cho một nhóm tài liệu nhỏ: → Amazon S3 → Amazon Bedrock Knowledge Bases → Lambda + API Gateway → Web chat nội bộ → Câu trả lời kèm nguồn.
 
 Điều quan trọng nhất không phải là dùng thật nhiều dịch vụ AWS. Điều quan trọng là chọn đúng phạm vi, chọn đúng dữ liệu và luôn yêu cầu câu trả lời có nguồn. Vì trong môi trường doanh nghiệp, AI không chỉ cần trả lời nhanh. AI cần trả lời dựa trên đúng tài liệu, đúng ngữ cảnh và đủ tin cậy để người dùng có thể sử dụng trong công việc hằng ngày.
-
-#AWS #AmazonBedrock #AmazonBedrockKnowledgeBases #GenerativeAI #RAG #EnterpriseAI #CloudComputing #AIForBusiness #FirstCloudAIJourney #AWSVietnam

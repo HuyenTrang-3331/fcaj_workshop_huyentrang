@@ -226,3 +226,20 @@ div.notices.info p {
   border-top: 30px solid #fd9827;
   background: #fff2db;
 }
+
+/* Make all images full width */
+#body img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  display: block !important;
+  margin: 1.5rem 0 !important;
+}
+
+/* Exception: small images (like region selector) */
+#body img.small-image {
+  width: auto !important;
+  max-width: 600px !important;
+  margin: 1.5rem auto !important;
+  display: block !important;
+}

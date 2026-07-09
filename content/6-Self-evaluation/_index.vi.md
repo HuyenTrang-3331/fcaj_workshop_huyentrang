@@ -1,59 +1,43 @@
 ---
 title: "Tự đánh giá"
-date: 2026-06-26
+date: 2026-07-02
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt quá trình tham gia chương trình First Cloud Journey từ ngày 17/04/2026 đến ngày 10/07/2026, tôi đã có cơ hội học tập, thực hành và hệ thống lại nhiều kiến thức quan trọng về AWS Cloud. Chương trình giúp tôi tiếp cận các nhóm dịch vụ nền tảng như IAM, VPC, EC2, S3, RDS, Database Migration, Security, Monitoring và Cost Optimization.
 
-Thông qua các module học tập và bài lab thực hành, tôi không chỉ hiểu lý thuyết về từng dịch vụ AWS mà còn được trực tiếp thao tác trên AWS Console, cấu hình tài nguyên, kiểm tra kết quả, ghi nhận lỗi và dọn dẹp tài nguyên sau khi hoàn thành lab. Điều này giúp tôi rèn luyện kỹ năng tự học, tư duy phân tích kiến trúc, khả năng xử lý lỗi và thói quen quản lý chi phí khi sử dụng dịch vụ cloud.
+Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Vietnam** từ ngày **17/04/2026 đến ngày 10/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và vận dụng những kiến thức đã được học tại trường vào môi trường làm việc thực tế.
 
-Về thái độ học tập, tôi luôn cố gắng hoàn thành các nội dung theo từng tuần, chủ động ghi chú lại kiến thức quan trọng, rà soát kết quả sau mỗi bài lab và tổng hợp thành báo cáo. Tuy vẫn còn một số điểm cần cải thiện, nhưng nhìn chung quá trình học đã giúp tôi có nền tảng tốt hơn để tiếp tục phát triển trong lĩnh vực Cloud Computing.
+Trong quá trình thực tập, tôi đã tham gia học tập và thực hành thông qua các workshop về **điện toán đám mây AWS**. Qua đó, tôi hiểu rõ hơn về các dịch vụ AWS, cách xây dựng hệ thống trên nền tảng cloud, đồng thời cải thiện kỹ năng thực hành lab, phân tích công nghệ, viết báo cáo kỹ thuật và giao tiếp trong môi trường chuyên nghiệp.
 
-Để phản ánh quá trình học tập một cách khách quan, tôi tự đánh giá bản thân theo các tiêu chí sau:
+Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ được giao, tuân thủ nội quy, có tinh thần trách nhiệm và tích cực trao đổi với giảng viên, người hướng dẫn cũng như các thành viên trong nhóm để nâng cao hiệu quả học tập và làm việc.
+
+**Bảng tự đánh giá**
 
 | STT | Tiêu chí | Mô tả | Tốt | Khá | Trung bình |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Kiến thức chuyên môn | Hiểu các khái niệm nền tảng về AWS Cloud, IAM, VPC, EC2, S3, RDS, Security và Monitoring | ☐ | ✅ | ☐ |
-| 2 | Khả năng thực hành lab | Thực hiện các bài lab theo hướng dẫn, tạo và cấu hình tài nguyên AWS | ☐ | ✅ | ☐ |
-| 3 | Khả năng học hỏi | Chủ động tiếp thu kiến thức mới, đọc tài liệu và ghi chú nội dung quan trọng | ✅ | ☐ | ☐ |
-| 4 | Tính chủ động | Chủ động tìm hiểu thêm, kiểm tra lỗi và hoàn thiện nội dung báo cáo | ✅ | ☐ | ☐ |
-| 5 | Tinh thần trách nhiệm | Hoàn thành worklog, ghi chú học tập và báo cáo theo từng tuần | ✅ | ☐ | ☐ |
-| 6 | Kỷ luật học tập | Duy trì tiến độ học tập, thực hành và tổng hợp kết quả trong suốt chương trình | ☐ | ✅ | ☐ |
-| 7 | Tư duy phân tích kiến trúc | Biết phân tích vai trò của từng dịch vụ trong sơ đồ kiến trúc AWS | ☐ | ✅ | ☐ |
-| 8 | Tư duy bảo mật | Hiểu vai trò của IAM, MFA, Security Group, KMS, CloudTrail và nguyên tắc Least Privilege | ☐ | ✅ | ☐ |
-| 9 | Quản lý chi phí | Biết kiểm tra Billing, Budget, Cost Explorer và dọn dẹp tài nguyên sau lab | ✅ | ☐ | ☐ |
-| 10 | Kỹ năng xử lý lỗi | Biết kiểm tra log, trạng thái tài nguyên, quyền truy cập và cấu hình khi gặp lỗi | ☐ | ✅ | ☐ |
-| 11 | Kỹ năng tổng hợp báo cáo | Biết ghi chú nội dung học tập, trình bày kết quả và tổng hợp worklog theo tuần | ✅ | ☐ | ☐ |
-| 12 | Đánh giá tổng thể | Có sự tiến bộ rõ ràng về kiến thức AWS, kỹ năng thực hành và tư duy cloud | ✅ | ☐ | ☐ |
+|-----|----------|-------|-----|-----|------------|
+| 1 | Kiến thức và kỹ năng chuyên môn | Có khả năng tiếp thu và áp dụng kiến thức về AWS vào các bài thực hành | ☐ | ✅ | ☐ |
+| 2 | Khả năng học hỏi | Tiếp thu kiến thức mới, thích nghi với công nghệ mới | ☐ | ✅ | ☐ |
+| 3 | Chủ động | Tự tìm hiểu tài liệu và thực hiện nhiệm vụ được giao | ✅ | ☐ | ☐ |
+| 4 | Tinh thần trách nhiệm | Hoàn thành công việc đúng thời hạn, đảm bảo yêu cầu | ✅ | ☐ | ☐ |
+| 5 | Kỷ luật | Tuân thủ thời gian, nội quy và quy trình thực tập | ✅ | ☐ | ☐ |
+| 6 | Tính cầu tiến | Sẵn sàng tiếp nhận góp ý và cải thiện bản thân | ✅ | ☐ | ☐ |
+| 7 | Giao tiếp | Biết trao đổi, báo cáo công việc nhưng cần tự tin hơn | ☐ | ✅ | ☐ |
+| 8 | Hợp tác nhóm | Phối hợp tốt với các thành viên trong quá trình học tập | ✅ | ☐ | ☐ |
+| 9 | Ứng xử chuyên nghiệp | Có thái độ lịch sự, tôn trọng môi trường làm việc | ✅ | ☐ | ☐ |
+| 10 | Tư duy giải quyết vấn đề | Biết nhận diện vấn đề và tìm hướng xử lý phù hợp | ☐ | ✅ | ☐ |
+| 11 | Đóng góp vào dự án/tổ chức | Tham gia đầy đủ các hoạt động học tập, thực hành và báo cáo | ✅ | ☐ | ☐ |
+| 12 | Tổng thể | Hoàn thành tốt quá trình thực tập, có sự tiến bộ về kiến thức và kỹ năng | ✅ | ☐ | ☐ |
 
-### Điểm mạnh đạt được
-* Có khả năng hệ thống lại kiến thức AWS theo từng nhóm dịch vụ như Compute, Storage, Networking, Database, Security và Monitoring.
-* Hiểu được vai trò của các dịch vụ cốt lõi như IAM, VPC, EC2, S3, RDS, CloudWatch và CloudTrail trong một kiến trúc AWS cơ bản.
-* Biết cách thực hiện các bài lab theo quy trình: đọc yêu cầu, cấu hình tài nguyên, kiểm tra kết quả, ghi chú lỗi và dọn dẹp tài nguyên.
-* Có tư duy tốt hơn trong việc phân tích sơ đồ kiến trúc AWS, xác định đúng vị trí của service và nhận biết một số lỗi thiết kế thường gặp.
-* Nhận thức rõ hơn về bảo mật tài khoản, nguyên tắc Least Privilege, MFA, IAM Role và rủi ro khi cấp quyền quá rộng.
-* Biết quan tâm đến chi phí khi sử dụng AWS, đặc biệt là các tài nguyên dễ phát sinh phí như EC2, RDS, NAT Gateway, Load Balancer, CloudWatch Logs và S3.
-* Cải thiện kỹ năng ghi chú, tổng hợp nội dung học tập và trình bày báo cáo kỹ thuật.
+**Điểm mạnh**
 
-### Cần cải thiện
-* Cần luyện tập thêm về cách thiết kế kiến trúc AWS hoàn chỉnh cho một hệ thống thực tế, không chỉ dừng lại ở từng dịch vụ riêng lẻ.
-* Cần cải thiện khả năng đọc tài liệu chính thức của AWS bằng tiếng Anh để hiểu sâu hơn về từng service.
-* Cần thực hành thêm với AWS CLI, CloudFormation hoặc Terraform để làm quen với hướng Infrastructure as Code.
-* Cần rèn luyện thêm kỹ năng troubleshooting khi gặp lỗi phức tạp liên quan đến network, permission, log hoặc cost.
-* Cần quản lý thời gian học tập tốt hơn để việc ghi chú, thực hành và tổng hợp báo cáo được đều đặn hơn.
-* Cần tiếp tục cải thiện kỹ năng trình bày, giải thích kiến trúc và diễn đạt vấn đề kỹ thuật một cách ngắn gọn, dễ hiểu.
+Tôi có khả năng tiếp thu kiến thức mới khá nhanh, đặc biệt là các nội dung liên quan đến điện toán đám mây và dịch vụ AWS. Bên cạnh đó, tôi có tinh thần trách nhiệm, tuân thủ các nguyên tắc trong công việc và luôn cố gắng hoàn thành nhiệm vụ được giao. Tôi cũng hòa đồng, biết lắng nghe và phối hợp tốt với các thành viên trong nhóm.
 
-### Định hướng cải thiện trong thời gian tới
+**Điểm cần cải thiện**
 
-Trong thời gian tới, tôi sẽ tiếp tục củng cố kiến thức về AWS Cloud bằng cách thực hành thêm các mô hình kiến trúc thực tế như web application, serverless application, data pipeline và hệ thống monitoring. Bên cạnh đó, tôi cũng sẽ tập trung học sâu hơn về bảo mật, tối ưu chi phí, tự động hóa hạ tầng và triển khai ứng dụng trên AWS.
+Tôi cần chủ động và tự tin hơn trong giao tiếp, đặc biệt là khi trình bày ý kiến trước tập thể. Ngoài ra, tôi cần rèn luyện thêm khả năng đào sâu vấn đề, phân tích nguyên nhân và tìm ra giải pháp tối ưu hơn thay vì chỉ xử lý ở mức cơ bản.
 
-Tôi cũng đặt mục tiêu cải thiện khả năng phân tích kiến trúc, đọc tài liệu kỹ thuật, kiểm tra lỗi và trình bày giải pháp. Đây là những kỹ năng quan trọng để có thể áp dụng kiến thức AWS vào các dự án thực tế trong học tập và công việc sau này.
+**Kế hoạch phát triển**
 
-### Kết luận
-
-Nhìn chung, quá trình tham gia First Cloud Journey đã giúp tôi có sự tiến bộ rõ rệt về kiến thức AWS, kỹ năng thực hành lab và tư duy triển khai hệ thống cloud. Tôi đã hiểu rõ hơn vai trò của từng nhóm dịch vụ, biết cách liên kết lý thuyết với thực hành và hình thành thói quen kiểm tra bảo mật, chi phí, log và tài nguyên sau mỗi bài lab.
-
-Mặc dù vẫn còn một số điểm cần cải thiện, tôi đánh giá đây là một giai đoạn học tập rất hữu ích, giúp tôi xây dựng nền tảng tốt để tiếp tục phát triển trong lĩnh vực Cloud Computing, DevOps, Backend hoặc System Administration trong tương lai.
+Trong thời gian tới, tôi sẽ lập kế hoạch học tập rõ ràng hơn, dành thêm thời gian ôn tập và thực hành các dịch vụ AWS. Đồng thời, tôi sẽ tích cực tham gia phát biểu trong các buổi thảo luận, rèn luyện kỹ năng giao tiếp và nâng cao tư duy giải quyết vấn đề để hoàn thiện bản thân tốt hơn.

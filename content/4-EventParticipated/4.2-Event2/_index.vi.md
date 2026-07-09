@@ -7,7 +7,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 
-# Bài Thu Hoạch "FCAJ Community Day"
+# Bài Thu Hoạch "FCAJ Community Day - May 2026"
 
 ### Mục Đích Của Sự Kiện
 

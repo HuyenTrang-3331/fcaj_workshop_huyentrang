@@ -8,31 +8,42 @@ pre: " <b> 4.4. </b> "
 
 # "FCAJ Cloud Architect" Event Summary
 
-### Event Objectives
+## Event Objectives
 
-FCAJ Cloud Architect is a challenge-based practice event organized to help participants train their cloud architecture thinking, requirements analysis, incident handling, and teamwork skills in an AWS environment. Through this event, participants not only review theoretical knowledge but also apply it to scenarios close to real-world cloud system deployments.
+**FCAJ Cloud Architect** is a challenge-based practice event organized to help participants reinforce their AWS Cloud knowledge, develop system architecture thinking, and enhance teamwork skills in a time-pressured environment.
 
-The main goal of FCAJ Cloud Architect is to help teams strengthen their AWS Cloud knowledge, from foundational levels like Cloud Practitioner, to Solution Architect Associate and Solution Architect Professional. The questions in the program are designed at many different levels, helping participants test their ability to understand services, choose appropriate solutions, optimize costs, increase security, ensure availability, and handle common issues in system architecture.
+The highlight of the event lies not only in reviewing theory but also in the ability to apply knowledge to scenarios close to real-world cloud deployments. Participants need to analyze requirements, select appropriate services, and evaluate architectures against multiple criteria such as security, performance, scalability, availability, and cost optimization.
 
-In addition to technical knowledge, the event also helps participants develop team collaboration skills. During the competition, members need to discuss quickly, analyze answers, make reasonable decisions, and defend their team's choices. These are very important skills for a Cloud Architect, because in reality, designing cloud systems is not only based on personal knowledge but also requires the ability to communicate, evaluate options, and coordinate with many stakeholders.
+The questions in the program are designed at many different levels, from **AWS Cloud Practitioner**, **Solution Architect Associate** to **Solution Architect Professional**. Thanks to this, the event helps players test both their foundational knowledge and deeper architecture thinking skills.
 
-**General Information:**
+In addition to technical expertise, FCAJ Cloud Architect is also an opportunity to practice teamwork skills. In each match, members must quickly discuss, analyze answers, agree on choices, and make decisions within limited time. These are important skills for a Cloud Architect, as in reality, designing cloud systems always requires coordination between many different roles such as developer, DevOps, security engineer, business analyst, and solution architect.
 
-* **Time:** 09:00, June 20, 2026
-* **Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
-* **Event Name:** FCAJ Cloud Architect
-* **Format:** Team competition, answering questions and handling AWS Cloud Architecture scenarios
-* **Number of participating teams:** 8 teams
-* **Role:** Player
-* **Main Content:** AWS Cloud Practitioner, Solution Architect Associate, Solution Architect Professional, cloud architecture, incident handling and system optimization
+## General Information
 
-### Competition Bracket
+- **Time:** 09:00, June 20, 2026
+- **Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+- **Event Name:** FCAJ Cloud Architect
+- **Format:** Team competition, answering questions and handling AWS Cloud Architecture scenarios
+- **Number of participating teams:** 8 teams
+- **Role:** Player
+- **Main Content:** AWS Cloud Practitioner, Solution Architect Associate, Solution Architect Professional, cloud architecture design, incident handling and system optimization
 
-The FCAJ Cloud Architect event is organized in an elimination format with 8 participating teams. Teams compete from the quarterfinals, then select 4 teams to go to the semifinals and continue to select 2 teams for the final.
+## Competition Bracket
 
-**List of 8 participating teams:**
+![Competition Bracket](/images/4-EventParticipated/event4.jpg)
 
-- KTKAT
+The **FCAJ Cloud Architect** event is organized in an elimination format with **8 participating teams**. Teams start competing from **Round 1 - Quarterfinals**, then select the winning teams to proceed to the **Semifinals**, and finally to the **Final** to find the champion.
+
+The competition structure includes:
+
+- **8 participating teams**
+- **4 Round 1 - Quarterfinal matches**
+- **2 Semifinal matches**
+- **1 Final match**
+
+### List of 8 Participating Teams
+
+- KLKAT
 - PrimeOps
 - Team newbie
 - Young Flame IT
@@ -41,32 +52,45 @@ The FCAJ Cloud Architect event is organized in an elimination format with 8 part
 - Gặp phải thắng liều
 - Lifelong Learners
 
-**Round 1 - Quarterfinals includes 4 matches:**
+### Round 1 - Quarterfinals
 
-- **Match 1:** KTKAT vs PrimeOps
+In the quarterfinals, the 8 teams are divided into 4 match pairs. Each match will select one winning team to continue to the semifinals.
+
+- **Match 1:** KLKAT vs PrimeOps
 - **Match 2:** Team newbie vs Young Flame IT
 - **Match 3:** Loser vs Ngũ đại hiệp
 - **Match 4:** Gặp phải thắng liều vs Lifelong Learners
 
-After the quarterfinals, 4 excellent teams advance to the semifinal round.
+After the quarterfinals, the 4 teams with the best results will continue to compete in the semifinals.
 
-**Semifinal 1:**
+### Semifinals
 
-- KTKAT vs Young Flame IT
+The semifinals consist of 2 matches, arranged based on the quarterfinal results:
 
-**Semifinal 2:**
+- **Semifinal 1:** Winner of Match 1 vs Winner of Match 2
+- **Semifinal 2:** Winner of Match 3 vs Winner of Match 4
 
-- Ngũ đại hiệp vs Lifelong Learners
+The two winning teams in the semifinals will proceed to the final.
 
-Currently, the final round has not taken place. The two winning teams in the semifinals will continue to compete in the final match to find the champion of the FCAJ Cloud Architect event.
+### Final
 
-### Rules and Scoring
+The final is the last match of the event, taking place between the two best teams after the semifinals:
 
-The event is divided into many rounds with increasing question difficulty. Questions are categorized into three main knowledge groups: Cloud Practitioner, Solution Architect Associate and Solution Architect Professional.
+- **Final:** Winner of Semifinal 1 vs Winner of Semifinal 2
 
-#### Quarterfinal Round
+The winning team in the final will become the champion of the **FCAJ Cloud Architect** event.
 
-In the quarterfinal round, each match has a total of 10 questions, divided by levels as follows:
+Through the competition bracket, we can see the event is organized clearly, logically, and highly competitive. Each round requires teams to demonstrate good AWS knowledge, teamwork skills, and scenario thinking in a short time.
+
+## Rules and Scoring
+
+The event is divided into multiple rounds with increasing question difficulty. Questions are categorized into three main knowledge groups: **Cloud Practitioner**, **Solution Architect Associate**, and **Solution Architect Professional**.
+
+This distribution helps evaluate participants from many different perspectives. The Cloud Practitioner question group tests foundational AWS knowledge, the Solution Architect Associate group requires the ability to analyze and design architecture at a basic to intermediate level, while the Solution Architect Professional group focuses on more complex scenarios that require synthesis thinking and optimal solution selection.
+
+### Quarterfinal Round
+
+In the quarterfinal round, each match consists of a total of **10 questions**, divided by levels as follows:
 
 - **5 Cloud Practitioner questions**, **10 points each**
 - **4 Solution Architect Associate questions**, **20 points each**
@@ -80,11 +104,11 @@ Maximum total points in the quarterfinal round:
 
 **Total: 180 points**
 
-This point distribution helps evaluate both foundational knowledge and higher-level architecture analysis capabilities. Cloud Practitioner questions help test basic understanding of AWS services, while SAA and SA Pro questions require teams to think more technically about architecture, security, performance, cost and reliability.
+This point distribution helps balance the assessment between foundational knowledge and architecture thinking skills. Cloud Practitioner questions help test basic understanding of AWS, while SAA and SA Pro level questions require teams to analyze more deeply about security, performance, cost, reliability, and system scalability.
 
-#### Semifinal Round
+### Semifinal Round
 
-In the semifinal round, the number of high-level questions is increased to create greater difficulty for teams that have passed the quarterfinals. Each semifinal match includes:
+In the semifinal round, the difficulty is increased compared to the quarterfinals. Each semifinal match includes:
 
 - **4 Cloud Practitioner questions**, **10 points each**
 - **4 Solution Architect Associate questions**, **20 points each**
@@ -98,101 +122,108 @@ Maximum total points in the semifinal round:
 
 **Total: 220 points**
 
-Compared to the quarterfinal round, the semifinal round has more questions at the Solution Architect Professional level. This makes the round more challenging, because teams not only need to remember knowledge but also know how to apply it to choose appropriate solutions in each specific context.
+Compared to the quarterfinal round, the semifinal round has more questions at the Solution Architect Professional level. This makes the round more challenging because teams not only need to have solid AWS knowledge but also know how to flexibly apply it to each specific scenario.
 
-### Key Highlights
+### Final Round
 
-#### Reviewing AWS Cloud Practitioner Knowledge
+The final round is the most important round, where the two strongest teams after the semifinals compete to find the overall winner. This is the most competitive round because the teams have passed many questions at different levels and demonstrated both technical expertise and teamwork skills.
 
-The Cloud Practitioner question section helps participants review foundational knowledge about AWS. This group of questions focuses on basic concepts like cloud computing models, benefits of cloud, shared responsibility model, common service types, and how AWS helps businesses scale systems.
+In this round, questions often require participants to read and understand quickly, correctly identify the problem requirements, and select the most appropriate solution. The winning team not only needs solid AWS knowledge but also effective discussion skills, quick decision-making, and maintaining focus throughout the competition.
 
-Through these questions, participants have the opportunity to re-test their ability to recognize appropriate AWS services for each basic need. For example, when needing object storage you can think of Amazon S3, when needing a virtual server you can use Amazon EC2, when needing a relational database you can use Amazon RDS, or when needing system monitoring you can use Amazon CloudWatch.
+## Key Highlights
 
-This knowledge group, although at the foundational level, is very important, because it is the basis for learners to continue analyzing more complex architecture problems at the Solution Architect level.
+### Reviewing AWS Cloud Practitioner Knowledge
 
-#### Analyzing Architecture at the Solution Architect Associate Level
+The Cloud Practitioner question section helps participants reinforce foundational knowledge about AWS. This group of questions focuses on basic concepts such as cloud computing models, benefits of cloud, shared responsibility model, common service groups, and how AWS helps businesses deploy more flexible systems.
 
-Solution Architect Associate level questions require participants to understand more deeply how to design systems on AWS. Not only stopping at knowing service names, participants need to analyze which service is appropriate for each requirement about high availability, scalability, security, performance and cost optimization.
+Through these questions, participants have the opportunity to test their ability to identify appropriate AWS services for each need. For example, when needing object storage, Amazon S3 can be used; when needing a virtual server, Amazon EC2 can be considered; when needing a relational database, Amazon RDS can be used; or when needing system monitoring, Amazon CloudWatch can be used.
 
-Some key content that may appear in this question group includes VPC design, public/private subnets, Internet Gateway, NAT Gateway, Security Group, Load Balancer, Auto Scaling Group, Amazon RDS Multi-AZ, Amazon S3, CloudFront, IAM, SQS, SNS and Lambda.
+The Cloud Practitioner knowledge group, while at a foundational level, plays a very important role. This is the basis for learners to continue approaching more complex architecture problems at the Solution Architect level.
 
-Through this section, participants practice solution thinking. For example, if the system needs to handle high loads, you can combine Application Load Balancer and Auto Scaling Group. If you need to accelerate global content delivery, you can use Amazon CloudFront. If you need asynchronous processing, you can use Amazon SQS to decouple components in the system.
+### Analyzing Architecture at the Solution Architect Associate Level
 
-#### Challenging with Solution Architect Professional
+Solution Architect Associate level questions require participants to understand more deeply how to design systems on AWS. Not only stopping at knowing service names, participants need to analyze which service is appropriate for each requirement about **high availability**, **scalability**, **security**, **performance**, and **cost optimization**.
 
-Solution Architect Professional questions are the most difficult part of the event. This is the question group that requires participants to analyze more complex scenarios, often with many constraints and many confusing answers.
+Some key content that may appear in this question group includes VPC design, public/private subnets, Internet Gateway, NAT Gateway, Security Group, Load Balancer, Auto Scaling Group, Amazon RDS Multi-AZ, Amazon S3, CloudFront, IAM, SQS, SNS, and Lambda.
 
-At this level, participants need to evaluate architecture from many angles at the same time: availability, fault tolerance, security, performance, cost, operability and long-term scalability. A correct answer is not only an answer that "works", but must be the most appropriate answer for the problem's requirements.
+Through this competition section, participants practice solution thinking. For example, if the system needs to handle high loads, you can combine Application Load Balancer with Auto Scaling Group. If you need to accelerate global content delivery, you can use Amazon CloudFront. If you need asynchronous processing, Amazon SQS can be used to decouple components in the system, making the architecture more flexible and scalable.
 
-This section helps participants understand that the role of a Cloud Architect is not only to know how to use AWS services, but also to know how to design reasonable systems. A good architecture needs to balance between technology and cost, between security and user experience, between complexity and real-world operability.
+### Challenging with Solution Architect Professional
 
-#### Practicing Incident Handling Thinking
+Solution Architect Professional questions are the most challenging part of the event. This is the question group that requires participants to analyze complex scenarios, often with many constraints and many confusing answers.
 
-In addition to theoretical questions, the FCAJ Cloud Architect event also helps participants form incident handling thinking in a cloud environment. When encountering a scenario where the system is faulty, slow to respond, inaccessible, or incurs high costs, participants need to know how to identify the cause and propose a fix direction.
+At this level, participants need to evaluate architecture from many perspectives at the same time, including availability, fault tolerance, security, performance, cost, operability, and long-term scalability. A correct answer is not only an answer that can be deployed, but must be the answer most suitable for the context and requirements of the problem.
 
-For example, if an application in a private subnet cannot access the Internet, you need to check the route table, NAT Gateway and Security Group. If the website loads slowly, you need to consider caching, CloudFront, optimizing the origin or checking CloudWatch metrics. If costs increase abnormally, you need to check NAT Gateway, CloudWatch Logs, data transfer, uncleaned resources or overprovisioned configurations.
+This competition section helps participants better understand that the role of a Cloud Architect is not simply to know how to use many AWS services, but more importantly to know how to design a reasonable system. A good architecture needs to balance between technology and cost, between security and user experience, between complexity and real-world operability.
 
-These scenarios help participants better understand the real-world operation process of cloud systems, where the problem lies not only in the initial deployment but also in the ability to monitor, optimize and handle incidents after the system is operational.
+### Practicing Incident Handling Thinking
 
-### What You Learned
+In addition to theoretical questions, the FCAJ Cloud Architect event also helps participants practice incident handling thinking in a cloud environment. When encountering a scenario where the system is faulty, slow to respond, inaccessible, or incurs unusual costs, participants need to know how to identify the cause and propose appropriate remediation directions.
 
-#### Reinforcing Foundational AWS Knowledge
+For example, if an application in a private subnet cannot access the Internet, you need to check the route table, NAT Gateway, Security Group, and Network ACL. If the website loads slowly, you need to consider caching, CloudFront, optimizing the origin, or checking CloudWatch metrics. If costs increase unusually, you need to check NAT Gateway, CloudWatch Logs, data transfer, uncleaned resources, or configurations that exceed actual needs.
 
-Through the FCAJ Cloud Architect event, participants reviewed a lot of foundational knowledge about AWS, including computing, storage, networking, security, database and system monitoring services. Reviewing knowledge through competition format helps make it easier to remember because participants have to apply it immediately in each specific question.
+These scenarios help participants better understand the real-world operation process of cloud systems. A system not only needs to be deployed correctly, but also needs to be continuously monitored, optimized, and have incidents handled to ensure stable operation.
 
-Participants also better understand that each AWS service has its own role in the overall architecture. Amazon EC2 is suitable for flexible server running needs, Amazon S3 is suitable for object storage, Amazon RDS is suitable for relational databases, IAM is used to manage access rights, while CloudWatch supports monitoring and log collection.
+## What You Learned
 
-#### Understanding How to Design Cloud Architecture
+### Reinforcing Foundational AWS Knowledge
 
-An important lesson from the event is that cloud architecture design needs to be based on real requirements. You should not choose a service just because it is familiar or popular, but must consider what the problem needs: does the system need high availability, does it need to auto-scale, is the data sensitive, is the budget limited and does the workload change over time?
+Through the FCAJ Cloud Architect event, participants had the opportunity to reinforce many important knowledge about AWS, including compute, storage, networking, security, database, and monitoring. Reviewing knowledge through the competition format helps make knowledge easier to remember because participants have to apply it immediately to each specific question.
 
-From SAA and SA Pro level questions, participants learn how to evaluate architecture against many criteria. A good solution needs to ensure the system operates stably, securely, scalably and cost-optimized. These are also important principles in the AWS Well-Architected Framework.
+Participants also better understand the role of each service in an overall architecture. Amazon EC2 is suitable for flexible server running needs, Amazon S3 is suitable for object storage, Amazon RDS is suitable for relational databases, IAM is used to manage access rights, while CloudWatch supports system monitoring and log collection.
 
-#### Practicing Teamwork Skills
+### Understanding How to Design Cloud Architecture
 
-Because the event is organized in teams, participants have the opportunity to practice teamwork skills in a time-pressured environment. Each question needs to be read quickly, analyzed quickly and the answer agreed upon in a short time.
+An important lesson from the event is that cloud architecture design needs to start from real requirements. You should not choose a service just because it is familiar or popular, but need to consider what the system needs, what level of availability, whether it needs to auto-scale, whether the data is sensitive, whether the budget is limited, and whether the workload changes over time.
 
-In the process, members need to know how to listen to each other's opinions, share knowledge, argue reasonably and make joint decisions. This is a very necessary skill in real work environments, especially when participating in cloud, DevOps or backend projects, where many people have to coordinate to design and operate the same system.
+From SAA and SA Pro level questions, participants learn how to evaluate architecture against many different criteria. A good solution needs to ensure the system operates stably, securely, is scalable, easy to operate, and cost-optimized. These are also important principles in design thinking according to the AWS Well-Architected Framework.
 
-#### Developing Cloud Architect Thinking
+### Practicing Teamwork Skills
 
-The event helps participants realize that a Cloud Architect not only needs to know many AWS services, but also needs to have system thinking. When looking at a problem, you need to determine which component is frontend, backend, database, network, security, monitoring and backup. Then, you need to connect these components into a reasonable architecture.
+Because the event is organized in teams, participants have the opportunity to practice teamwork skills in a time-pressured environment. Each question requires members to read quickly, analyze quickly, and agree on the answer in a short time.
 
-In addition, a Cloud Architect also needs to know how to balance factors. A system using many high-end services may have good availability but high costs. Conversely, an overly simplified system may save costs but lack fault tolerance. Therefore, architecture choices need to be based on specific context and system goals.
+In the competition process, members need to know how to listen to each other's opinions, share knowledge, argue reasonably, and make joint decisions. This is a very necessary skill in real work environments, especially when participating in cloud, DevOps, or backend projects, where many people have to coordinate to design, deploy, and operate the same system.
 
-### Applying to Study and Work
+### Developing Cloud Architect Thinking
 
-The knowledge from FCAJ Cloud Architect can be directly applied to the learning process, personal projects and career orientation in the cloud field.
+The event helps participants realize that a Cloud Architect not only needs to know many AWS services but also needs to have systems thinking. When looking at a problem, you need to clearly identify components such as frontend, backend, database, network, security, monitoring, logging, and backup. Then, you need to connect these components into a reasonable architecture, suitable for the system's goals.
 
-For learning AWS, this event helps participants clearly identify knowledge areas that need more review. If answering networking questions poorly, you need to study more carefully about VPC, subnet, route table, NAT Gateway, Internet Gateway and Security Group. If having difficulty with the database section, you need to review Amazon RDS, DynamoDB, backup, replication and Multi-AZ. If not sure about security, you need to reinforce IAM, least privilege, MFA, encryption and access control.
+In addition, a Cloud Architect also needs to know how to balance between many factors. A system using many advanced services may achieve better availability but higher costs. Conversely, an overly simple system may save initial costs but lack fault tolerance or be difficult to scale when demand increases. Therefore, architecture choices need to be based on specific context, rather than mechanically applying a fixed model.
 
-For personal projects or assignments, participants can apply the architecture thinking they learned to design clearer systems. For example, when building a website, you can separate frontend, backend, database, storage and monitoring. If deploying on AWS, you can use EC2 or Lambda for business processing, S3 for file storage, RDS for database, CloudFront to accelerate access and CloudWatch to monitor the system.
+## Applying to Study and Work
 
-For real work, the event helps participants understand how to approach a cloud problem more professionally. Instead of just asking "which service to use", you need to ask "which service is most suitable for this requirement, in the context of cost, security, performance and operation?". This is a very important mindset for positions like Backend Developer, DevOps Engineer, Cloud Engineer or Solution Architect.
+The knowledge and experience from FCAJ Cloud Architect can be directly applied to the learning process, personal projects, and career orientation in the cloud field.
 
-### Event Experience
+For learning AWS, this event helps participants clearly identify which knowledge areas need to continue reinforcing. If not strong in networking, you need to study more carefully about VPC, subnet, route table, NAT Gateway, Internet Gateway, Security Group, and Network ACL. If still having difficulty with the database section, you need to review Amazon RDS, DynamoDB, backup, replication, and Multi-AZ. If not sure about security, you need to reinforce content such as IAM, least privilege, MFA, encryption, and access control.
 
-Participating in FCAJ Cloud Architect is a fun experience with high practical value. The competition atmosphere between teams creates excitement, helping participants be more proactive in reviewing and applying knowledge. Compared to regular theoretical learning, the competition format makes knowledge more vivid because each question requires thinking, discussion and decision-making.
+For personal projects or theses, participants can apply the architecture thinking they learned to design clearer and more professional systems. For example, when building a website, you can clearly separate frontend, backend, database, storage, monitoring, and security. If deploying on AWS, you can use EC2 or Lambda for business processing, S3 for file storage, RDS for database, CloudFront to accelerate access, and CloudWatch to monitor the system.
 
-#### Competition Atmosphere and Team Spirit
+For real work, the event helps participants understand how to approach a cloud problem more professionally. Instead of just asking "which service to use", you need to think deeper: "which service is most suitable for this requirement in the context of cost, security, performance, and operability?". This is an important mindset for positions such as Backend Developer, DevOps Engineer, Cloud Engineer, or Solution Architect.
 
-With 8 participating teams, the event creates positive competition between groups. Each team needs to prepare knowledge, coordinate well and stay focused throughout the competition. The quarterfinal matches help select teams with good foundations, while the semifinal round adds more challenges with more difficult questions.
+## Event Experience
 
-The two semifinal pairs are KTKAT vs Young Flame IT and Ngũ đại hiệp vs Lifelong Learners. These are notable matches because the teams have passed the quarterfinals and can handle questions better. The fact that the final has not taken place also adds more anticipation for the final result of the event.
+Participating in FCAJ Cloud Architect is an interesting and practically valuable experience. The competition atmosphere between teams creates excitement, helping participants be more proactive in reviewing and applying knowledge. Compared to regular theoretical learning, team competition makes knowledge more vivid because each question requires thinking, discussion, and decision-making right at the time of competition.
 
-#### Time Pressure and Decision-Making Ability
+### Competition Atmosphere and Team Spirit
 
-A memorable point in the event is the time pressure when answering questions. For easy questions, the team needs to answer quickly and accurately to maintain an advantage. For difficult questions, especially SAA and SA Pro, the team needs to carefully analyze the keywords in the question, eliminate wrong answers and choose the most appropriate option.
+With 8 participating teams, the event creates positive competition between groups. Each team needs to prepare knowledge, coordinate well, and stay focused throughout the competition. The quarterfinal matches help select teams with good foundations, while the semifinal round adds more challenges with many higher difficulty questions.
 
-This helps participants practice decision-making ability in conditions where there is not much time. This is a skill close to reality, because at work, cloud engineers or solution architects also often have to make quick recommendations based on available information.
+The difference between teams lies not only in remembering many AWS services, but also in the ability to read and understand questions, analyze requirements, and eliminate inappropriate answers. In many scenarios, the options all seem reasonable, but there is only one choice most suitable for the problem requirements. Therefore, team spirit and quick communication skills play a very important role.
 
-#### Lessons Learned
+### Time Pressure and Decision-Making Ability
 
-The biggest lesson from FCAJ Cloud Architect is that cloud knowledge needs to be understood in an application-oriented way, not just by memorizing theory. An AWS service is only really meaningful when the learner knows what problem it solves, what scenarios to use it in, what limitations it has and how it affects the overall architecture.
+A memorable point in the event is the time pressure when answering questions. For easy questions, the team needs to answer quickly and accurately to maintain an advantage. For difficult questions, especially at the SAA and SA Pro levels, the team needs to carefully analyze the keywords in the question, identify the main requirement, eliminate wrong answers, and select the most optimal option.
 
-In addition, the event also shows the importance of teamwork. One member may be strong in networking, another member strong in database, another understands security or cost optimization well. When knowing how to combine each person's strengths, the team can analyze questions better and give more accurate answers.
+This helps participants practice decision-making ability in conditions where there is not much time. This is a skill close to real work, as cloud engineers or solution architects often have to make recommendations based on available information, while also considering many technical and business factors.
 
-### Conclusion
+### Lessons Learned
 
->Overall, FCAJ Cloud Architect is a useful event, helping participants both review AWS knowledge and practice cloud architecture analysis skills in a team competition environment. The event not only helps consolidate knowledge at the Cloud Practitioner, Solution Architect Associate and Solution Architect Professional levels, but also helps participants develop problem-solving thinking, team coordination skills and the ability to choose appropriate solutions according to AWS best practices.
+The biggest lesson from FCAJ Cloud Architect is that cloud knowledge needs to be understood in an application-oriented way, not just memorizing theory. An AWS service is only really meaningful when the learner understands what problem it solves, which scenarios it is suitable for, what limitations it has, and how it affects the overall architecture.
 
+In addition, the event also shows the importance of teamwork. One member may be strong in networking, another member strong in database, another understands security or cost optimization well. When knowing how to combine each person's strengths, the team can analyze questions more comprehensively and give more accurate answers.
+
+## Conclusion
+
+Overall, **FCAJ Cloud Architect** is a useful event, helping participants both review AWS knowledge and practice cloud architecture analysis skills in a team competition environment. The event not only helps reinforce knowledge at the Cloud Practitioner, Solution Architect Associate, and Solution Architect Professional levels, but also helps participants develop problem-solving thinking, team coordination skills, and the ability to select appropriate solutions according to AWS best practices.
+
+Through this event, participants better understand that learning cloud is not just about memorizing service names, but more importantly about knowing how to choose the right service for the right problem. This is a necessary foundation to continue learning more deeply about AWS, develop system design skills, and better prepare for roles related to Cloud, DevOps, Backend, or Solution Architect in the future.

@@ -63,11 +63,3 @@ The system automatically retrieves data, analyzes results, and helps create insi
 What I take away from this case study: Amazon Bedrock Agents are not only suitable for building chatbots, but can also become an AI Agent that truly supports enterprise data analysis.
 
 When combined with Knowledge Bases, SageMaker AI, OpenSearch, Glue, and Lambda, businesses can shorten analysis time, reduce operating costs, and exploit data more effectively.
-
-**Original AWS blog post link:**
-`https://aws.amazon.com/blogs/machine-learning/how-clickforce-accelerates-data-driven-advertising-with-amazon-bedrock-agents/`
-
-**Read the Vietnamese translation at:**
-`https://awsstudygroup.com/2026/02/04/cach-clickforce-tang-toc-quang-cao-dua-tren-du-lieu-voi-amazon-bedrock-agents/`
-
-#AWS #AmazonBedrock #BedrockAgents #GenerativeAI #AIAgent #CloudComputing #DataAnalytics

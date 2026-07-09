@@ -139,5 +139,3 @@ Scattered data is a very common problem in enterprises. Before AI, this problem 
 With AWS, a practical approach is to start with an internal AI Assistant for a small document group: → Amazon S3 → Amazon Bedrock Knowledge Bases → Lambda + API Gateway → Internal web chat → Answers with sources.
 
 The most important thing isn’t using a lot of AWS services. The important thing is choosing the right scope, choosing the right data, and always requiring answers with sources. Because in an enterprise environment, AI doesn’t just need to answer quickly. AI needs to answer based on the right documents, the right context, and be reliable enough for users to use in their daily work.
-
-#AWS #AmazonBedrock #AmazonBedrockKnowledgeBases #GenerativeAI #RAG #EnterpriseAI #CloudComputing #AIForBusiness #FirstCloudAIJourney #AWSVietnam
